@@ -1,2 +1,2 @@
 # Web-Programming
-CANCLUB: Students Club Web Page
+CANCLUB: Students Club WebPage
